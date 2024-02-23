@@ -1,3 +1,9 @@
+---
+name: Decision record
+about: Create a new architecture decision record
+title: ''
+labels: status/proposed
+---
 
 ## Status
 What is the status? `Proposed`, `Accepted`, `Rejected` or `Deprecated`.
