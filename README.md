@@ -4,7 +4,8 @@ Log for [architectural decisions](https://en.wikipedia.org/wiki/Architectural_de
 
 ## Why?
 
-https://github.blog/2020-08-13-why-write-adrs/
+- https://cognitect.com/blog/2011/11/15/documenting-architecture-decisions
+- https://github.blog/2020-08-13-why-write-adrs/
 
 ## Template
 
